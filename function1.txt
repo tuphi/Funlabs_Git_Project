@@ -1,1 +1,2 @@
 This is function 1
+This function helps us to control the legs of the robot.
